@@ -1,0 +1,46 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Classics"
+    ],
+    [
+      "Humanities",
+      "Philosophy"
+    ]
+  ],
+  "legacy_uid": "2466473c-7c9a-ecc2-8801-57d5d9b0a037",
+  "instructors": {
+    "content": [
+      "c94921a4-f2a5-37a3-dc99-08157108d104"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7b47100d-808d-0d79-acb6-c65ef7bda319",
+    "website": "24-01-classics-in-western-philosophy-spring-2006"
+  },
+  "course_title": "Classics in Western Philosophy",
+  "course_description": "This course will introduce you to the Western philosophical tradition, through the study of major figures such as Plato, Aristotle, Descartes, Hume, and Kant. You will get to grips with questions that have been significant to philosophy from its beginnings: questions about the nature of the mind or soul, the existence of God, the foundations of knowledge, ethics and the good life. In the process of evaluating the arguments of these philosophers, you will develop your own philosophical and analytical skills. You will also observe changes of intellectual outlook over time, and the effect of scientific, religious and political concerns on the development of philosophical ideas.\n\nLecture handouts will be supplied for Lec #1-8, and #16-25. For the section on Descartes' Meditations, Lec #9-15, my separate _Study Guide to Descartes' Meditations_ is available in the [study materials](pages/study-materials) section.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.01",
+  "course_image_thumbnail": {
+    "content": "a3136b0a-8d7a-66f7-c23f-4525f9d2e409",
+    "website": "24-01-classics-in-western-philosophy-spring-2006"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "07167e03-817a-4a26-a155-9a739b03e54d",
+  "title": "Course Metadata"
+}
